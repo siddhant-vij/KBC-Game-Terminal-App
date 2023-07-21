@@ -10,202 +10,307 @@ questions = [
         "question": "What is the capital of France?",
         "options": ["Berlin", "London", "Rome", "Paris"],
         "answer": "4",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who wrote the Harry Potter series?",
-        "options": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "J.R.R. Tolkien"],
+        "options": [
+            "J.K. Rowling",
+            "Stephen King",
+            "George R.R. Martin",
+            "J.R.R. Tolkien",
+        ],
         "answer": "1",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who painted the Mona Lisa?",
-        "options": ["Vincent Van Gogh", "Michelangelo", "Leonardo Da Vinci", "Pablo Picasso"],
+        "options": [
+            "Vincent Van Gogh",
+            "Michelangelo",
+            "Leonardo Da Vinci",
+            "Pablo Picasso",
+        ],
         "answer": "3",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who discovered penicillin?",
-        "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Isaac Newton"],
+        "options": [
+            "Marie Curie",
+            "Alexander Fleming",
+            "Louis Pasteur",
+            "Isaac Newton",
+        ],
         "answer": "2",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Which planet is known as the Red Planet?",
         "options": ["Mars", "Venus", "Mercury", "Jupiter"],
         "answer": "1",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "What is the tallest mountain in the world?",
         "options": ["K2", "Everest", "Kangchenjunga", "Lhotse"],
         "answer": "2",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who wrote 'War and Peace'?",
-        "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Anton Chekhov", "Nikolai Gogol"],
+        "options": [
+            "Leo Tolstoy",
+            "Fyodor Dostoevsky",
+            "Anton Chekhov",
+            "Nikolai Gogol",
+        ],
         "answer": "1",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who is the author of 'The Theory of Relativity'?",
-        "options": ["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Stephen Hawking"],
+        "options": [
+            "Isaac Newton",
+            "Nikola Tesla",
+            "Albert Einstein",
+            "Stephen Hawking",
+        ],
         "answer": "3",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Which chemical element has the symbol Au?",
         "options": ["Silver", "Aluminum", "Gold", "Copper"],
         "answer": "3",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "What is the capital of Australia?",
         "options": ["Sydney", "Melbourne", "Perth", "Canberra"],
         "answer": "4",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who composed the Four Seasons?",
-        "options": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Antonio Vivaldi"],
+        "options": [
+            "Johann Sebastian Bach",
+            "Wolfgang Amadeus Mozart",
+            "Ludwig van Beethoven",
+            "Antonio Vivaldi",
+        ],
         "answer": "4",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "What is the square root of 225?",
         "options": ["15", "25", "20", "12"],
         "answer": "1",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "What is the name of the world's largest coral reef system?",
-        "options": ["Red Sea Coral Reef", "New Caledonia Barrier Reef", "Florida Reef", "Great Barrier Reef"],
+        "options": [
+            "Red Sea Coral Reef",
+            "New Caledonia Barrier Reef",
+            "Florida Reef",
+            "Great Barrier Reef",
+        ],
         "answer": "4",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "In what year did World War I begin?",
         "options": ["1921", "1914", "1901", "1939"],
         "answer": "2",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "What is the distance in miles from Earth to the Moon?",
         "options": ["238,855", "120,000", "500,000", "1,000,000"],
         "answer": "1",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who wrote the Iliad?",
         "options": ["Socrates", "Homer", "Aristotle", "Plato"],
         "answer": "2",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "What is the chemical formula for table salt?",
         "options": ["H2O", "C6H12O6", "CO2", "NaCl"],
         "answer": "4",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Which language has the most native speakers worldwide?",
         "options": ["English", "Mandarin Chinese", "Spanish", "Hindi"],
         "answer": "2",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "What is the fastest land animal?",
         "options": ["Lion", "Cheetah", "Gazelle", "Horse"],
         "answer": "2",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Which is the only planet not named after a god?",
         "options": ["Mars", "Venus", "Mercury", "Earth"],
         "answer": "4",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Which of these is not a planet in our solar system?",
         "options": ["Mars", "Jupiter", "Pluto", "Mercury"],
         "answer": "3",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Which of these rivers is the longest?",
         "options": ["Amazon", "Yangtze", "Mississippi", "Nile"],
         "answer": "4",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who was the first president of the United States?",
-        "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+        "options": [
+            "George Washington",
+            "Thomas Jefferson",
+            "Abraham Lincoln",
+            "John Adams",
+        ],
         "answer": "1",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who developed the theory of evolution?",
-        "options": ["Isaac Newton", "Charles Darwin", "Albert Einstein", "Galileo Galilei"],
+        "options": [
+            "Isaac Newton",
+            "Charles Darwin",
+            "Albert Einstein",
+            "Galileo Galilei",
+        ],
         "answer": "2",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "What is the world's largest ocean?",
         "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
         "answer": "4",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Which country has the largest population in the world?",
         "options": ["India", "United States", "China", "Indonesia"],
         "answer": "3",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Which of these elements is a noble gas?",
         "options": ["Nitrogen", "Oxygen", "Argon", "Carbon"],
         "answer": "3",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Which country is the largest (by area) in the world?",
         "options": ["United States", "China", "Canada", "Russia"],
         "answer": "4",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who is known as the Father of Computer Science?",
-        "options": ["Charles Babbage", "Alan Turing", "John von Neumann", "Ada Lovelace"],
+        "options": [
+            "Charles Babbage",
+            "Alan Turing",
+            "John von Neumann",
+            "Ada Lovelace",
+        ],
         "answer": "2",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "In which year did man first walk on the moon?",
         "options": ["1972", "1965", "1969", "1970"],
         "answer": "3",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who is the all-time leading scorer in NBA history?",
-        "options": ["Michael Jordan", "LeBron James", "Kareem Abdul-Jabbar", "Kobe Bryant"],
+        "options": [
+            "Michael Jordan",
+            "LeBron James",
+            "Kareem Abdul-Jabbar",
+            "Kobe Bryant",
+        ],
         "answer": "3",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Which book series is the best-selling of all time?",
-        "options": ["Harry Potter", "The Lord of the Rings", "A Song of Ice and Fire", "The Twilight Saga"],
+        "options": [
+            "Harry Potter",
+            "The Lord of the Rings",
+            "A Song of Ice and Fire",
+            "The Twilight Saga",
+        ],
         "answer": "1",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who was the ancient Egyptian queen who had a love affair with Julius Caesar?",
         "options": ["Nefertiti", "Cleopatra", "Hatshepsut", "Ankhesenamun"],
         "answer": "2",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Which planet in our solar system has the most moons?",
         "options": ["Saturn", "Jupiter", "Uranus", "Mars"],
         "answer": "1",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "What is the currency of Japan?",
         "options": ["Won", "Yen", "Ruble", "Rupee"],
         "answer": "2",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Which composer wrote The Magic Flute?",
-        "options": ["Wolfgang Amadeus Mozart", "Johann Sebastian Bach", "Ludwig van Beethoven", "Franz Schubert"],
+        "options": [
+            "Wolfgang Amadeus Mozart",
+            "Johann Sebastian Bach",
+            "Ludwig van Beethoven",
+            "Franz Schubert",
+        ],
         "answer": "1",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "What is the capital of Canada?",
         "options": ["Toronto", "Montreal", "Ottawa", "Vancouver"],
         "answer": "3",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "What is the primary ingredient in hummus?",
         "options": ["Lentils", "Chickpeas", "Black Beans", "Almonds"],
         "answer": "2",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "In what country would you find the Great Pyramids of Giza?",
         "options": ["Greece", "Egypt", "Mexico", "China"],
         "answer": "2",
+        "visible_options": [1, 2, 3, 4],
     },
     {
         "question": "Who was the Greek god of war?",
         "options": ["Ares", "Apollo", "Zeus", "Hermes"],
         "answer": "1",
-    }
+        "visible_options": [1, 2, 3, 4],
+    },
 ]
 
 questions = random.sample(questions, 20)
@@ -238,17 +343,18 @@ def shuffle_options_and_update_answer(question):
     options_with_indices = list(enumerate(question["options"], start=1))
     random.shuffle(options_with_indices)
     question["options"] = [option for _, option in options_with_indices]
+    question["visible_options"] = list(range(1, len(question["options"]) + 1))
 
     for i, (index, option) in enumerate(options_with_indices):
         if index == int(question["answer"]):
-            question["answer"] = str(i + 1)
+            question["answer"] = i + 1
             break
 
 
 def display_question_and_options(question):
     print(question["question"])
-    for i, option in enumerate(question["options"], start=1):
-        print(f"{i}. {option}")
+    for i in question["visible_options"]:
+        print(f"{i}. {question['options'][i-1]}")
     print("\n")
 
 
@@ -260,8 +366,7 @@ def valid_input_for_lifeline(question, question_num):
             quit_game()
         elif (
             user_input.isdigit()
-            and 1 <= int(user_input) <= len(question["options"])
-            and question["options"][int(user_input) - 1]
+            and int(user_input) in question["visible_options"]
         ):
             return user_input
         else:
@@ -269,16 +374,15 @@ def valid_input_for_lifeline(question, question_num):
 
 
 def lifeline_50_50(question, question_num):
-    correct_option_index = int(question["answer"]) - 1
-    incorrect_options = [i for i in range(4) if i != correct_option_index]
-    removed_options = random.sample(incorrect_options, 2)
-    new_options = [
-        question["options"][i] if i not in removed_options else "" for i in range(4)
-    ]
-    question["options"] = list(filter(None, new_options))  # Remove the blank options
+    incorrect_options = list(
+        set(question["visible_options"]) - set([question["answer"]]))
+    removed_options = random.sample(
+        incorrect_options, min(2, len(incorrect_options)))
+    for option in removed_options:
+        question["visible_options"].remove(option)
 
     display_question_and_options(question)
-    valid_input_for_lifeline(question, question_num)
+    return valid_input_for_lifeline(question, question_num)
 
 
 def lifeline_phone_a_friend(question, question_num):
@@ -286,7 +390,7 @@ def lifeline_phone_a_friend(question, question_num):
     print(f"A friend suggests: {suggested_option}")
 
     display_question_and_options(question)
-    valid_input_for_lifeline(question, question_num)
+    return valid_input_for_lifeline(question, question_num)
 
 
 def lifeline_ask_the_audience(question, question_num):
@@ -294,19 +398,19 @@ def lifeline_ask_the_audience(question, question_num):
     print(f"The audience suggests: {suggested_option}")
 
     display_question_and_options(question)
-    valid_input_for_lifeline(question, question_num)
+    return valid_input_for_lifeline(question, question_num)
 
 
 def check_answer(user_input, question, question_num):
     global correct_answers
-    if user_input == question["answer"]:
+    if int(user_input) == question["answer"]:
         print("That's correct!")
         correct_answers += 1
     else:
         print("That's incorrect!")
         print(
             "The correct answer was: "
-            + question["options"][int(question["answer"]) - 1]
+            + question["options"][question["answer"] - 1]
         )
         calculate_winnings(question_num)
         quit_game()
@@ -354,7 +458,8 @@ def calculate_winnings(question_num):
 
 
 def handle_user_input(question, question_num):
-    user_input = input("Choose your option or type 'lifeline' to use a lifeline: ")
+    user_input = input(
+        "Choose your option or type 'lifeline' to use a lifeline: ")
 
     if isinstance(user_input, str):
         if user_input.lower() == "quit":
